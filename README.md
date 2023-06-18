@@ -7,4 +7,5 @@ But, note that it is not explicitly mentioned in the dataset about the diseases 
 ## Dataset
 
 train_sent: In Dataset, sentences are provided in the word format, where each line is a word word a sentence. And sentence ends with a white space.
+
 train_label: labels associated with each word.
